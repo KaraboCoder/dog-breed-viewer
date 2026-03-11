@@ -1,4 +1,7 @@
-# Dog Breed Viewer 🐕
+# Dog Breed Viewer 
+
+<img width="200" height="300" alt="image" src="https://github.com/user-attachments/assets/b040eac9-e490-4fe2-8a5e-dc03babed3d5" />
+
 
 A modern, fast, and beautiful dog breed explorer built with React, Vite, and Shadcn UI. This application allows users to browse breeds, search in real-time, and view random images for any selected breed.
 
